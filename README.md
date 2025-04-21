@@ -52,8 +52,7 @@ dataset_info:
       class_label:
         names:
           '0': entailment
-          '1': neutral
-          '2': contradiction
+          '1': not_entailment
   - name: idx
     dtype: int32
   splits:
